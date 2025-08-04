@@ -11,7 +11,7 @@
   <type>
     <types>String</types>
     <stringQualifiers>
-      <length>10</length>
+      <length>30</length>
     </stringQualifiers>
   </type>
 </mdclass:DefinedType>
