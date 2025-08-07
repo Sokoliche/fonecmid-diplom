@@ -6,20 +6,12 @@
 	<object>
 		<name>SessionParameter.КомментарийЗамераВремени</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Document.РеализацияТоваровУслуг</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Insert</name>
 			<value>false</value>
@@ -38,10 +30,6 @@
 		</right>
 		<right>
 			<name>UndoPosting</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -89,14 +77,6 @@
 			<value>false</value>
 		</right>
 		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>UpdateDataHistory</name>
 			<value>false</value>
 		</right>
@@ -113,10 +93,6 @@
 			<value>false</value>
 		</right>
 		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>EditDataHistoryVersionComment</name>
 			<value>false</value>
 		</right>
@@ -127,10 +103,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.РазрешенныйПользователь</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -308,10 +280,6 @@
 	<object>
 		<name>SessionParameter.ПараметрыОграниченияДоступа</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -378,10 +346,6 @@
 	<object>
 		<name>Constant.ПараметрыАдминистрированияИБ</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -431,10 +395,6 @@
 	</object>
 	<object>
 		<name>Constant.ПараметрыИтоговИАгрегатов</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -692,10 +652,6 @@
 	<object>
 		<name>Constant.УчетнаяЗаписьДляВосстановленияПароля</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -952,10 +908,6 @@
 	<object>
 		<name>Constant.ИспользоватьДополнительныеОтчетыИОбработки</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -1128,10 +1080,6 @@
 	<object>
 		<name>Constant.ПериодХраненияЗамеров</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -1174,10 +1122,6 @@
 	</object>
 	<object>
 		<name>Constant.ВКМ_НоменклатураАбонентскаяПлата</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -1287,10 +1231,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ТипыВладельцевНастроекПрав</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -1416,20 +1356,12 @@
 	<object>
 		<name>SessionParameter.ВерсииШаблоновОграниченияДоступа</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Constant.НастройкаПроксиСервера</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -1473,10 +1405,6 @@
 	</object>
 	<object>
 		<name>Constant.ЗапрещатьЗагрузкуФайловПоРасширению</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -1552,10 +1480,6 @@
 	</object>
 	<object>
 		<name>Constant.АдресПубликацииИнформационнойБазыВИнтернете</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -1702,10 +1626,6 @@
 	</object>
 	<object>
 		<name>Constant.СоздаватьПодкаталогиСИменамиВладельцев</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -1940,10 +1860,6 @@
 	<object>
 		<name>SessionParameter.РазрешенныйПустойНаборГруппДоступа</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -1984,10 +1900,6 @@
 	</object>
 	<object>
 		<name>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -2170,10 +2082,6 @@
 	<object>
 		<name>SessionParameter.БуферОбмена</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -2187,10 +2095,6 @@
 	</object>
 	<object>
 		<name>Constant.СпособХраненияФайлов</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -2294,10 +2198,6 @@
 	<object>
 		<name>SessionParameter.ТекущийПользователь</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -2350,10 +2250,6 @@
 	</object>
 	<object>
 		<name>Constant.ВыполнятьЗамерыПроизводительности</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -2408,10 +2304,6 @@
 	</object>
 	<object>
 		<name>Constant.ПрофильБезопасностиИнформационнойБазы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -2583,20 +2475,12 @@
 	<object>
 		<name>SessionParameter.ВсеВидыДоступаКромеСпециальных</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Constant.СписокРасширенийФайловOpenDocumentОбластиДанных</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -2793,10 +2677,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.СпискиСОтключеннымОграничениемЧтения</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -3142,10 +3022,6 @@
 	<object>
 		<name>SessionParameter.ВидыДоступаСОтключеннымИспользованием</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -3314,10 +3190,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ТаблицыСОтдельнымиНастройкамиПрав</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -3501,10 +3373,6 @@
 	</object>
 	<object>
 		<name>Constant.ВКМ_ИндикаторГруппыДляОповещения</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -3969,10 +3837,6 @@
 	<object>
 		<name>Constant.СписокЗапрещенныхРасширенийОбластиДанных</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -4392,10 +4256,6 @@
 	<object>
 		<name>SessionParameter.ВыполняетсяОбновлениеИБ</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -4498,10 +4358,6 @@
 	<object>
 		<name>Constant.СписокРасширенийТекстовыхФайлов</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -4551,10 +4407,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ВыполняетсяУдалениеОбъектов</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -4622,10 +4474,6 @@
 	<object>
 		<name>SessionParameter.КлючДанныхПовторногоИспользования</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -4639,10 +4487,6 @@
 	</object>
 	<object>
 		<name>Constant.СписокРасширенийФайловOpenDocument</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -4693,10 +4537,6 @@
 	</object>
 	<object>
 		<name>Constant.ДатаПоследнейВыгрузкиЗамеровПроизводительностиUTC</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -4865,10 +4705,6 @@
 	<object>
 		<name>SessionParameter.ОграничениеДоступаНаУровнеЗаписейУниверсально</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -4896,10 +4732,6 @@
 	</object>
 	<object>
 		<name>Constant.ОсновнойЯзык</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -4954,10 +4786,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ВидыДоступаСОднойГруппойДляЗначенияДоступа</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -5128,10 +4956,6 @@
 	<object>
 		<name>SessionParameter.АвторизованныйПользователь</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -5212,10 +5036,6 @@
 	<object>
 		<name>Constant.ОтложенноеОбновлениеЗавершеноУспешно</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -5259,10 +5079,6 @@
 	<object>
 		<name>Constant.ИзвлекатьТекстыФайловНаСервере</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -5304,18 +5120,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.ВКМ_ОбслуживаниеКлиента</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.СпискиСОграничениемПоПолям</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -5323,10 +5128,6 @@
 	</object>
 	<object>
 		<name>Constant.КоличествоЗамеровВПакетеЭкспорта</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -5370,10 +5171,6 @@
 	</object>
 	<object>
 		<name>Constant.ИспользоватьДополнительныеРеквизитыИСведения</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -5536,20 +5333,12 @@
 	<object>
 		<name>SessionParameter.СпискиСОграничениемЧерезКлючиДоступаГруппДоступа</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Constant.ПутьКТомуБезУчетаРегиональныхНастроек</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -5715,10 +5504,6 @@
 	<object>
 		<name>Constant.МаксимальныйРазмерФайла</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -5835,10 +5620,6 @@
 	<object>
 		<name>SessionParameter.ВерсияРасширений</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -5919,10 +5700,6 @@
 	<object>
 		<name>SessionParameter.ТаблицыРасширенийСОграничениемДоступа</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -5936,10 +5713,6 @@
 	</object>
 	<object>
 		<name>Constant.ПараметрыБлокировкиРаботыСВнешнимиРесурсами</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -6179,10 +5952,6 @@
 	<object>
 		<name>SessionParameter.СпискиСОграничениемЧерезКлючиДоступаПользователей</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -6300,10 +6069,6 @@
 	<object>
 		<name>Constant.УдалитьНастройкиВходаПользователей</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -6364,10 +6129,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ОбщиеПараметрыШаблоновОграниченияДоступа</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -6776,10 +6537,6 @@
 	<object>
 		<name>Constant.ИспользоватьГруппыВнешнихПользователей</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -6944,10 +6701,6 @@
 	<object>
 		<name>SessionParameter.ОбновлениеСправочниковИдентификаторов</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -7093,10 +6846,6 @@
 	</object>
 	<object>
 		<name>Constant.КоличествоПотоковОбновленияДоступа</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -7258,10 +7007,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ИнтерактивнаяПроверкаЗаполненияКонтактнойИнформации</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -7527,10 +7272,6 @@
 	<object>
 		<name>Constant.КоличествоПотоковДлительныхОпераций</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -7624,10 +7365,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.РазрешенныйНаборГруппПользователей</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -7767,10 +7504,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ОсновнойЯзык</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -8081,10 +7814,6 @@
 	<object>
 		<name>SessionParameter.ОграничениеДоступаНаУровнеЗаписейИспользуется</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -8193,13 +7922,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.ВКМ_ДобавленныеОбъекты</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>CommonForm.СравнениеТабличныхДокументов</name>
 		<right>
 			<name>View</name>
@@ -8293,10 +8015,6 @@
 	<object>
 		<name>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -8346,10 +8064,6 @@
 	</object>
 	<object>
 		<name>Constant.РежимОчисткиФайлов</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -8571,10 +8285,6 @@
 	<object>
 		<name>Constant.НеИспользоватьРазделениеПоОбластямДанных</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -8655,10 +8365,6 @@
 	<object>
 		<name>Constant.ПервоеОбновлениеДоступаЗавершилось</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -8701,10 +8407,6 @@
 	</object>
 	<object>
 		<name>Constant.СведенияОБлокируемыхОбъектах</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -8899,10 +8601,6 @@
 	<object>
 		<name>Constant.ОценкаПроизводительностиПериодЗаписи</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -8945,10 +8643,6 @@
 	</object>
 	<object>
 		<name>Constant.ГлавныйУзел</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -8993,10 +8687,6 @@
 	<object>
 		<name>Constant.ПроверятьИспользованиеУдаляемыхОбъектов</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -9039,10 +8729,6 @@
 	</object>
 	<object>
 		<name>Constant.ЗаголовокСистемы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -9336,10 +9022,6 @@
 	<object>
 		<name>Constant.ИспользуютсяПрофилиБезопасности</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -9396,10 +9078,6 @@
 	</object>
 	<object>
 		<name>Constant.СтандартныеПодсистемыВАвтономномРежиме</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -9567,10 +9245,6 @@
 	</object>
 	<object>
 		<name>Constant.ОграничиватьДоступНаУровнеЗаписейУниверсально</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -9795,10 +9469,6 @@
 	<object>
 		<name>Constant.МаксимальныйРазмерФайлаОбластиДанных</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -9841,10 +9511,6 @@
 	</object>
 	<object>
 		<name>Constant.ИспользоватьВнешнихПользователей</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -10154,10 +9820,6 @@
 	<object>
 		<name>Constant.НастройкиКолонтитулов</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -10242,10 +9904,6 @@
 	<object>
 		<name>Constant.ИспользоватьГруппыПользователей</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -10289,10 +9947,6 @@
 	<object>
 		<name>Constant.НастройкиВходаПользователей</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -10335,10 +9989,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ВидыДоступаБезГруппДляЗначенияДоступа</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -10551,10 +10201,6 @@
 	<object>
 		<name>Constant.СписокЗапрещенныхРасширений</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -10656,10 +10302,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ПараметрыОбработчикаОбновления</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -10852,10 +10494,6 @@
 	<object>
 		<name>SessionParameter.ИнтерактивнаяПроверкаЗаполненияСвойств</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -10884,10 +10522,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.РазрешенныйНаборГруппДоступа</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -10968,10 +10602,6 @@
 	</object>
 	<object>
 		<name>Constant.КаталогВременныхФайловДляWindows</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -11209,6 +10839,14 @@
 			<value>false</value>
 		</right>
 		<right>
+			<name>ThinClient</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>WebClient</name>
+			<value>false</value>
+		</right>
+		<right>
 			<name>ThickClient</name>
 			<value>false</value>
 		</right>
@@ -11257,6 +10895,10 @@
 			<value>false</value>
 		</right>
 		<right>
+			<name>SaveUserData</name>
+			<value>false</value>
+		</right>
+		<right>
 			<name>ConfigurationExtensionsAdministration</name>
 			<value>false</value>
 		</right>
@@ -11266,6 +10908,10 @@
 		</right>
 		<right>
 			<name>InteractiveOpenExtReports</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Output</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -11472,10 +11118,6 @@
 	</object>
 	<object>
 		<name>Constant.ОграничиватьДоступНаУровнеЗаписей</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -11792,10 +11434,6 @@
 	<object>
 		<name>Constant.ИспользоватьРазделениеПоОбластямДанных</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -11838,10 +11476,6 @@
 	</object>
 	<object>
 		<name>Constant.ХранитьФайлыВТомахНаДиске</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -11911,10 +11545,6 @@
 	<object>
 		<name>SessionParameter.ИдентификаторыТаблицСОтдельнымиНастройкамиПрав</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -11932,10 +11562,6 @@
 	</object>
 	<object>
 		<name>Constant.СведенияОбОбновленииИБ</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -12214,10 +11840,6 @@
 	<object>
 		<name>Constant.РегистрироватьПоказателиСерверныхОповещений</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -12334,10 +11956,6 @@
 	<object>
 		<name>Constant.КоличествоПотоковОбновленияИнформационнойБазы</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -12439,10 +12057,6 @@
 	</object>
 	<object>
 		<name>Constant.ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -12625,10 +12239,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ОтключениеОбновленияКлючейДоступа</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -12909,10 +12519,6 @@
 	<object>
 		<name>SessionParameter.ПараметрыКлиентаНаСервере</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -13023,10 +12629,6 @@
 	<object>
 		<name>Constant.СостояниеОтправкиСерверныхОповещений</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -13080,10 +12682,6 @@
 	</object>
 	<object>
 		<name>Constant.КаталогВременныхФайловДляLinux</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -13450,10 +13048,6 @@
 	<object>
 		<name>SessionParameter.ТекущийВнешнийПользователь</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -13551,10 +13145,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.УстановленныеРасширения</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -13841,10 +13431,6 @@
 	<object>
 		<name>Constant.АдресПубликацииИнформационнойБазыВЛокальнойСети</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -14050,10 +13636,6 @@
 	<object>
 		<name>Constant.ПоследнееОбновлениеДоступа</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -14207,10 +13789,6 @@
 	<object>
 		<name>SessionParameter.ДлительныеОперации</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -14218,20 +13796,12 @@
 	<object>
 		<name>SessionParameter.РаботаСВнешнимиРесурсамиЗаблокирована</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Constant.ПараметрыХраненияФайловВИБ</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -14282,10 +13852,6 @@
 	</object>
 	<object>
 		<name>Constant.СинхронизироватьФайлы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -14686,10 +14252,6 @@
 	<object>
 		<name>SessionParameter.ПодключенныеРасширения</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
@@ -14763,20 +14325,12 @@
 	<object>
 		<name>SessionParameter.ОбновлениеСправочниковПользователей</name>
 		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Set</name>
 			<value>false</value>
 		</right>
 	</object>
 	<object>
 		<name>Constant.ПорядокОбрабатываемыхДанных</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -14821,10 +14375,6 @@
 	<object>
 		<name>Constant.ДетализироватьОбновлениеИБВЖурналеРегистрации</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -14867,10 +14417,6 @@
 	</object>
 	<object>
 		<name>SessionParameter.ТипыЗначенийДоступаСГруппами</name>
-		<right>
-			<name>Get</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Set</name>
 			<value>false</value>
@@ -15021,10 +14567,6 @@
 	</object>
 	<object>
 		<name>Constant.ИдентификаторИнформационнойБазы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -15208,10 +14750,6 @@
 	<object>
 		<name>Constant.ВКМ_НоменклатураРаботыСпециалиста</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -15313,10 +14851,6 @@
 	</object>
 	<object>
 		<name>Constant.ВКМ_ТокенУправленияТелеграммБотом</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
@@ -15441,10 +14975,6 @@
 	<object>
 		<name>Constant.ИспользоватьУдалениеПомеченныхОбъектов</name>
 		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>false</value>
 		</right>
@@ -15494,10 +15024,6 @@
 	</object>
 	<object>
 		<name>Constant.ДоставлятьСерверныеОповещенияБезСистемыВзаимодействия</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
 		<right>
 			<name>Update</name>
 			<value>false</value>
