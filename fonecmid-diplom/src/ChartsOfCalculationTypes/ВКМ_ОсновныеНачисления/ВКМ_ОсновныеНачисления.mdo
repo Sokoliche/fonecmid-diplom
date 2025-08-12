@@ -60,5 +60,14 @@
       <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</base>
       <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
     </items>
+    <items id="46e1f10f-7fbc-49a6-894e-1ec0f353fa22">
+      <name>ПроцентЗаРаботы</name>
+      <description>Процент за работы</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+      <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
+      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</leading>
+    </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>

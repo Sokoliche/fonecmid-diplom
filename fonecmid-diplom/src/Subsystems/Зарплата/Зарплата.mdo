@@ -13,6 +13,11 @@
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>AccumulationRegister.ВКМ_ДниОтпускаСотрудников</content>
+  <content>Report.РасходЗапланированныхОтпусков</content>
   <subsystems>Документы</subsystems>
   <subsystems>РегистрыСведений</subsystems>
 </mdclass:Subsystem>

@@ -15,4 +15,6 @@
   <content>Document.ОплатаПоставщику</content>
   <content>Report.ЗадолженностьПокупателей</content>
   <content>Report.ЗадолженностьПоставщикам</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
 </mdclass:Subsystem>
