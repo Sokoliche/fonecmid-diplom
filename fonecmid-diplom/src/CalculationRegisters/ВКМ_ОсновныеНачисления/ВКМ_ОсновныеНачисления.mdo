@@ -90,23 +90,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </attributes>
-  <attributes uuid="b9da3482-5043-491c-a79d-6b4ce2563ba5">
-    <name>ВыпРаб</name>
-    <synonym>
-      <key>ru</key>
-      <value>Вып раб</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>10</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-  </attributes>
   <dimensions uuid="6f2673db-0ff4-4106-9aa1-edb394c74d9c">
     <name>Сотрудник</name>
     <synonym>
